@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "account_id": "07c56e0dc4b3b1597495aa78fe7ebbf8",
+  "account_id": "3901ced52fe51f7d74df73a03f0e936f",
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS"
@@ -32,7 +32,7 @@
   },
   "vars": {
     "DEBUG_MODE": "false",
-    "PROXY_URLS": "https://0.xdpl.xixu.dpdns.org/jsonrpc,https://1.xdpl.xixu.dpdns.org/jsonrpc,https://2.xdpl.xixu.dpdns.org/jsonrpc,https://3.xdpl.xixu.dpdns.org/jsonrpc,https://4.xdpl.xixu.dpdns.org/jsonrpc,https://5.xdpl.xixu.dpdns.org/jsonrpc,https://6.xdpl.xixu.dpdns.org/jsonrpc,https://7.xdpl.xixu.dpdns.org/jsonrpc,https://8.xdpl.xixu.dpdns.org/jsonrpc,https://9.xdpl.xixu.dpdns.org/jsonrpc"
+    "PROXY_URLS": "https://deeplx001.vercel.app/jsonrpc,https://deeplx002.vercel.app/jsonrpc,https://deeplx003.vercel.app/jsonrpc,https://deeplx004.vercel.app/jsonrpc,https://deeplx005.vercel.app/jsonrpc"
   },
   "workers_dev": false
 }
